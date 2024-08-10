@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FoodOrder</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create an account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="burger_cafe">Burger Cafe</string>
+    <string name="order_now">Order Now</string>
+    <string name="payment_step">Payment Step</string>
+    <string name="confirm_order">Confirm Order</string>
+    <string name="address">Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="card_number">Card Number</string>
+    <string name="day_year">Day/Year</string>
+    <string name="cvv">CVV</string>
+    <string name="buy">Buy</string>
+
+    <string name="product_image">Product Image</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+</resources>
+
+
